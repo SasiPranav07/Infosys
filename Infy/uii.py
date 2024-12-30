@@ -155,7 +155,3 @@ if uploaded_photo is not None:
 
 
 
-
-
-
-
